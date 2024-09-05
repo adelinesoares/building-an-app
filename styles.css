@@ -1,0 +1,21 @@
+body{
+    background-color: #F7F7F7   ;
+}
+
+#navbar{
+    width: 300px;
+    position: fixed;
+    height: 100%;
+}
+
+#navbar a{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+
+}
+
+#main-doc{
+    margin-left: 310px;
+}
