@@ -8,6 +8,10 @@ body{
     height: 100%;
 }
 
+header{
+    font-size: 1.8em;
+}
+
 #navbar a{
     display: block;
     padding: 10px;
