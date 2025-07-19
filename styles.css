@@ -1,25 +1,36 @@
-body{
-    background-color: #F7F7F7   ;
+body {
+    background-color: #F7F7F7;
+    font-family: 'Open sans', Arial, Helvetica, sans-serif;
+    line-height: 1.5;
 }
 
-#navbar{
+#navbar {
     width: 300px;
     position: fixed;
     height: 100%;
 }
 
-header{
+header {
     font-size: 1.8em;
 }
 
-#navbar a{
+#navbar a {
     display: block;
-    padding: 10px;
+    padding: 10px 30px;
     text-decoration: none;
     color: black;
 
 }
 
-#main-doc{
+#main-doc {
     margin-left: 310px;
+}
+
+#navbar li {
+    border-top: 1px solid;
+    list-style: none;
+}
+
+#navbar ul{
+    padding: 0;
 }
